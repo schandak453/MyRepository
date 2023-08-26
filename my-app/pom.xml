@@ -6,7 +6,7 @@
 
   <groupId>in.shubhamit</groupId>
   <artifactId>my-app</artifactId>
-  <version>1.3-SNAPSHOT</version>
+  <version>1.4-SNAPSHOT</version>
   <name>my-app</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
